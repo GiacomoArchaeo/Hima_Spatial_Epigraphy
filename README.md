@@ -6,7 +6,7 @@ Analysis for Fontana, G. and Prioletta, A., "Spatial Epigraphy at Ḥimā: Two S
 -   `Full_Analysis.html`, `figures/`: the rendered report and figures, from a run with the full data.
 -   `input/`: study area, Copernicus GLO-30 DEM and the landscape covariates (EPSG:32636).
 
-Not included: the inscription records (`hima_db.gpkg`, Saudi-French Archaeological and Epigraphic Mission to Najran, available on request from A. Prioletta), the bedrock polygons (`rock_outcrops.gpkg`, Saudi Geological Survey; Greenwood 1985) and the satellite background (`satellite.tif`, Esri World Imagery). Travel times use the cppRouting and leastcostpathDEV packages (a development version of leastcostpath by J. Lewis).
+Not included: the inscription records (`hima_db.gpkg`, Saudi-French Archaeological and Epigraphic Mission to Najran, available on request from A. Prioletta), the bedrock polygons (`rock_outcrops.gpkg`, Saudi Geological Survey; Greenwood 1985) and the satellite background (`satellite.tif`, Esri World Imagery).
 
 Copernicus WorldDEM-30 © DLR e.V. 2010–2014 and © Airbus Defence and Space GmbH 2014–2018, provided under COPERNICUS by the European Union and ESA. Imagery: Esri, Vantor, Earthstar Geographics, and the GIS User Community.
 
